@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+.div{
+    text-align: center;
+    background-color: darkgoldenrod;
+    width:500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    padding :40px;
+}
+.input_box{
+    width: 300px;
+    padding:10px;
+    border: none;
+    border-radius: 3px;
+}
+body{
+    background-image: url(img4.jpg);
+    background-repeat: no-repeat;
+    height:100%;
+    background-position: center;
+    background-size: cover;
+
+}
